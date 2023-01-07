@@ -12,6 +12,26 @@
     
 }
 
+.banner-text{
+    
+    margin-left: 900px;
+    align-items: center;
+    padding-top: 200px;
+    
+}
+
+.title-1{
+    font: 100px;
+}
+
+.para-text{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 13px;
+    color: rgba(41, 40, 39, 0.895); 
+    padding-bottom: 18px;
+    font-size: 17px; 
+}
+
 .btn{
     background-color: orangered;
     padding: 20px 35px;
@@ -21,6 +41,7 @@
     color: white;
     border-radius: 10px;
     font-weight: 600;
+    margin-top: 22px;
    
 }
 
@@ -28,9 +49,56 @@
 
 .content{
     display: flex;
-    gap: 1px;
+    
 }
 
+.picture{
+    width: 300px;
+    margin-left: 120px;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    padding-bottom: 22px;
+    font-size: 45px;
+    
+}
+
+.li-text{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 13px;
+    color: rgba(41, 40, 39, 0.895); 
+    padding-bottom: 18px;
+    font-size: 17px;
+    
+}
+
+.list{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    margin-left: 800px;
+    margin-top: 380px;
+}
+
+.serial{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 25px;
+}
+
+.text{
+    padding-bottom: 5px;
+    color: rgba(41, 40, 39, 0.895);
+    list-style: none;
+}
+
+ul li{
+    list-style: none;
+}
 
 
 /*icon*/
@@ -131,6 +199,8 @@
     margin-bottom: 70px;
     margin-left: 50px;
 }
+
+
 /*footer*/
 
 .footer{
